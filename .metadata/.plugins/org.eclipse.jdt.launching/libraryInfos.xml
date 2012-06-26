@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo version="1.4.2_12" home="C:\Programme\Java\j2re1.4.2_12">
+<bootpath>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\rt.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\i18n.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\sunrsasign.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\jsse.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\jce.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\charsets.jar"/>
+<entry path="C:\Programme\Java\j2re1.4.2_12\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Programme\Java\j2re1.4.2_12\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
